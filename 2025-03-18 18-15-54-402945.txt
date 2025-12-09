@@ -1,0 +1,61 @@
+
+To:prisehm@gmail.com (prisehm@gmail.com),
+CC:
+From: Max Ricketts (priemd@hotmail.com)
+Subject: Testing
+Date: 2025-03-01 18:54:24+00:00
+
+Hi, this is currently a test email to test whether prior replies are stored on the body of an email or just the current reply. 
+
+
+Regards,
+Priemd :)
+----------------------------------------------------------------------------------------------
+To:Max Ricketts (priemd@hotmail.com),
+CC:
+From: Max Ricketts (prisehm@gmail.com)
+Subject: Re: Testing
+Date: 2025-03-01 18:56:21+00:00
+
+Oh hi, "Priemd"
+That's curious you mention it because I was wondering the same thing as it would be pretty pivotal to a developer to know that
+
+
+Kind regards,
+prisehm
+
+P.S Don't you just hate the Microsoft REST API
+----------------------------------------------------------------------------------------------
+To:Max Ricketts (prisehm@gmail.com),
+CC:
+From: Max Ricketts (priemd@hotmail.com)
+Subject: Re: Testing
+Date: 2025-03-01 18:58:13+00:00
+
+Thanks for getting back to me on this.
+
+
+Yeah, I agree. It would be a HUGE thing for a developer to know - especially if they were developing an email application. It changes completely how you would need to fetch emails but that's what testing is for - I guess...
+
+
+Kindest regards,
+Priemd 
+
+
+P.S Oh absolutely, it's the worst! 
+----------------------------------------------------------------------------------------------
+To:Max Ricketts (priemd@hotmail.com),
+CC:priemd.programming@gmail.com (priemd.programming@gmail.com)
+From: Max Ricketts (prisehm@gmail.com)
+Subject: Re: Testing
+Date: 2025-03-01 19:01:45+00:00
+
+Hi again, 
+It really does change everything, if you were curious about this, I've CC'd my friend in - a patterned developer and I can assure that his hate for the Microsoft REST API is his key motivation in his life.. haha..
+
+
+Esteemed regards,
+prisehm
+
+P.S I wish I could strangle whoever made the Microsoft REST API for Python, it's horrific and the resources they provide have no regard for actual application building in regards to a GUI's event loop.
+----------------------------------------------------------------------------------------------
