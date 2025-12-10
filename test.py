@@ -34,7 +34,6 @@ class Broker(TokenCredential):
 
 """
 code = Broker(azure_settings['clientId'], graph_scopes)
-print(code.result)
 """
 """ try:
     print(code.result["claims"])
